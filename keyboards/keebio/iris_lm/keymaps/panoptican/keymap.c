@@ -17,8 +17,6 @@
 #define RCTL_L RCTL_T(KC_L)
 #define MEH_N MEH_T(KC_N)
 
-
-
 enum custom_layers {
      _QWERTY,
      _LOWER,
