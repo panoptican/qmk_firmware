@@ -29,3 +29,11 @@
 /* Auto shift settings */
 #define AUTO_SHIFT_TIMEOUT 200	
 #define NO_AUTO_SHIFT_ALPHA
+
+// #define USE_I2C
+#define EE_HANDS
+
+// Added by Brian C. Arnold to support Vial.
+#define VIAL_KEYBOARD_UID {0xBC, 0x99, 0xF2, 0x61, 0x45, 0x7C, 0xC8, 0xB9}
+#define VIAL_UNLOCK_COMBO_ROWS {0,9}
+#define VIAL_UNLOCK_COMBO_COLS {0,5}
