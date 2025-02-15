@@ -1,6 +1,3 @@
-// Copyright 2024 Danny Nguyen (@nooges)
-// SPDX-License-Identifier: GPL-2.0-or-later
-
 #pragma once
 
 /* Defines for the split keyboard setup */
@@ -24,3 +21,11 @@
 #   define WS2812_DMA_CHANNEL 2
 #   define WS2812_DMAMUX_ID STM32_DMAMUX1_TIM3_UP
 #endif
+
+/* Tap dance settings */
+#define TAPPING_TERM 180
+#define QUICK_TAP_TERM 0
+
+/* Auto shift settings */
+#define AUTO_SHIFT_TIMEOUT 200	
+#define NO_AUTO_SHIFT_ALPHA

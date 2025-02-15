@@ -1,13 +1,5 @@
 #include QMK_KEYBOARD_H
 
-// Tap dance settings
-#define TAPPING_TERM 180
-#define QUICK_TAP_TERM 0
-
-// Auto shift settings
-#define AUTO_SHIFT_TIMEOUT 200	
-#define NO_AUTO_SHIFT_ALPHA
-
 // Left-hand aliases
 #define LCTL_BS LCTL_T(KC_BSPC)
 #define LCTL_S LCTL_T(KC_S)
