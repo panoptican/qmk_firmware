@@ -1,6 +1,7 @@
 {
     "manufacturer": "Keebio",
     "maintainer": "Keebio",
+    "keyboard_name": "Iris LM"
     "url": "https://keeb.io",
     "usb": {
         "vid": "0xCB10"
