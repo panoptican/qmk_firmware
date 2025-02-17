@@ -23,9 +23,9 @@
 #endif
 
 /* Tap dance settings */
-#define TAPPING_TERM 180
+#define TAPPING_TERM 200
 #define QUICK_TAP_TERM 0
 
 /* Auto shift settings */
-#define AUTO_SHIFT_TIMEOUT 200	
+#define AUTO_SHIFT_TIMEOUT 200
 #define NO_AUTO_SHIFT_ALPHA
